@@ -1,0 +1,8 @@
+zarr
+dask[array]
+numpy
+matplotlib
+jupyter
+ome-zarr
+fsspec
+aiohttp
